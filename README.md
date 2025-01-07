@@ -34,9 +34,6 @@ This project involves an in-depth analysis of a Zomato dataset using SQL to unco
    - Analyzed areas with the highest number of restaurants and their average ratings.  
    - Focused on underserved areas with growth potential.  
 
-## 🙏 Acknowledgments  
-I would like to express my sincere gratitude to **Shalini Kumari**, my mentor, for her continuous guidance and invaluable insights throughout this project. A huge thank you to **LearninGT | Grant Thornton Bharat, Grant Thornton Bharat LLP, and Maharaja Agrasen Business School (MABS)** for providing an amazing platform for learning and professional growth.  
-
 ## 💡 Future Scope  
 - Integrating more datasets for advanced analysis.  
 - Using visualization tools like Power BI or Tableau for enhanced data representation.  
